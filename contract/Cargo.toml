@@ -1,0 +1,17 @@
+[package]
+name = "ping-pong"
+version = "0.1.0"
+authors = ["Your Name"]
+edition = "2021"
+
+[lib]
+path = "src/ping_pong.rs"
+
+[dependencies]
+multiversx-sc = "0.39.8"
+
+[dev-dependencies]
+multiversx-sc-scenario = "0.39.8"
+
+[workspace]
+members = ["."] 
