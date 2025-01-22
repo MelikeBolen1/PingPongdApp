@@ -11,19 +11,6 @@ This dApp demonstrates basic blockchain interactions with the following features
 - Smart contract written in Rust
 - Frontend built with React and MultiversX SDK
 
-## Project Structure
-ping-pong/
-├── contract/ # Smart contract code
-│ ├── src/
-│ │ └── ping_pong.rs
-│ └── Cargo.toml
-├── dapp/ # Frontend application
-│ ├── src/
-│ │ ├── config/
-│ │ └── pages/
-│ └── package.json
-└── wallet/ # Wallet storage
-
 
 ## Prerequisites
 
@@ -36,8 +23,8 @@ ping-pong/
 
 1. Clone the repository:
 bash
-git clone https://github.com/your-username/ping-pong-multiversx.git
-cd ping-pong-multiversx
+git clone 
+cd pingpongmultiversx
 
 2. Install contract dependencies:
 bash
