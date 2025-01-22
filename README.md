@@ -1,4 +1,4 @@
-# MultiversX Ping-Pong dApp
+# MultiversX PingPong dApp
 
 A simple decentralized application built on MultiversX blockchain that allows users to deposit tokens (ping) and retrieve them after a set time period (pong).
 
